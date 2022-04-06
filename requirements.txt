@@ -1,4 +1,6 @@
 Flask
+flask_cors
+requests
 youtube_dl
 pymongo
 twitter
